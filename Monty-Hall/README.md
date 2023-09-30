@@ -1,3 +1,6 @@
+# Monty Hall Problem Analysis
+
+
 Listed in the follwing folder is a project in R the encapultes the Monty Hall Problem.
 
 This Wikipedia entry contains the description of the original Monty Hall problem as well as its analysis and variations --> (https://en.wikipedia.org/wiki/Monty_Hall_problem)
